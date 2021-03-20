@@ -3,7 +3,9 @@
 //  Squashing
 //
 //  Created by Marko Dimitrijevic on 20/03/2021.
-//
+// comment 1
+// comment 2
+// comment 3
 
 import UIKit
 
